@@ -1,0 +1,9 @@
+[gd_scene format=3 uid="uid://2wdmmm1ll4mj"]
+
+[ext_resource type="Texture2D" uid="uid://c32lqpea1503f" path="res://assets/debug/pixel_test_640x360.png" id="1_8xo6m"]
+
+[node name="PixelTest" type="Node2D" unique_id=1340650406]
+
+[node name="TestPattern" type="Sprite2D" parent="." unique_id=144339053]
+texture = ExtResource("1_8xo6m")
+centered = false
